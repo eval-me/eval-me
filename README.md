@@ -1,1 +1,1 @@
-Contact me at [[mailto:pedro.freire.oliveira@tecnico.ulisboa.pt]]
+Contact me: [e-mail](mailto:pedro.freire.oliveira@tecnico.ulisboa.pt)
